@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Fungsi utama bank sentral dalam sistem moneter adalah...",
+    "choice1": "Mengatur kebijakan perdagangan internasional",
+    "choice2": "Menentukan harga barang di pasar",
+    "choice3": "Mencetak dan mengendalikan jumlah uang yang beredar",
+    "choice4": "Memberikan pinjaman langsung kepada masyarakat",
+    "answer": 3
+  },
+  {
+    "question": "Kebijakan moneter bertujuan untuk...",
+    "choice1": "Mengatur jumlah uang yang beredar dan menjaga stabilitas ekonomi",
+    "choice2": "Meningkatkan ekspor dan impor suatu negara",
+    "choice3": "Mengontrol harga barang di pasar tradisional",
+    "choice4": "Menetapkan pajak bagi pelaku usaha",
+    "answer": 1
+  },
+  {
+    "question": "Apa yang dimaksud dengan alat pembayaran non tunai?",
+    "choice1": "Pembayaran yang dilakukan dengan menggunakan uang kertas dan logam",
+    "choice2": "Pembayaran yang dilakukan melalui sistem elektronik tanpa menggunakan uang tunai",
+    "choice3": "Pembayaran yang dilakukan dengan cek",
+    "choice4": "Pembayaran yang dilakukan dengan barang",
+    "answer": 2
+  },
+  {
+    "question": "Sistem pembayaran mengalami perubahan dari barter hingga pembayaran digital. Perubahan ini terutama dipengaruhi oleh.",
+    "choice1": "Meningkatnya jumlah penduduk dunia",
+    "choice2": "Kebutuhan transaksi yang lebih cepat dan aman",
+    "choice3": "Kebijakan pemerintah dalam mencetak uang",
+    "choice4": "Perubahan cuaca dan kondisi lingkungan",
+    "answer": 2
+  },
+  {
+    "question": "Dalam sistem pembayaran elektronik, risiko operasional dapat terjadi akibat",
+    "choice1": "Perubahan nilai tukar mata uang",
+    "choice2": "Kegagalan sistem atau kesalahan teknis dalam proses transaksi",
+    "choice3": "Ketidakpuasan pelanggan terhadap produk yang dibeli",
+    "choice4": "Kebijakan bank dalam menetapkan suku bunga",
+    "answer": 2
+  },
+  {
+    "question": "Bank Indonesia mengawasi penyelenggara jasa sistem pembayaran agar",
+    "choice1": "Dapat menentukan harga barang di pasar",
+    "choice2": "Dapat memberikan pinjaman tanpa bunga kepada masyarakat",
+    "choice3": "Sistem pembayaran berjalan aman, lancar, dan efisien",
+    "choice4": "Semua transaksi harus dilakukan secara tunai",
+    "answer": 3
+  },
+  {
+    "question": "Mengapa uang dapat berfungsi sebagai alat penyimpan nilai?",
+    "choice1": "Karena uang memiliki bentuk fisik yang tidak mudah rusak",
+    "choice2": "Karena uang dapat disimpan untuk digunakan di masa depan tanpa kehilangan daya belinya",
+    "choice3": "Karena uang hanya dapat ditukar dengan barang atau jasa tertentu",
+    "choice4": "Karena uang selalu memiliki nilai yang tetap tanpa dipengaruhi inflasi",
+    "answer": 2
+  },
+  {
+    "question": "Uang giral memiliki peran penting dalam sistem ekonomi modern. Faktor utama yang membedakan uang giral dari uang kartal adalah...?",
+    "choice1": "Uang giral dapat digunakan dalam bentuk fisik maupun digital",
+    "choice2": "Uang giral hanya diterbitkan oleh bank sentral dan digunakan oleh pemerintah",
+    "choice3": "Uang giral tidak memiliki nilai intrinsik seperti uang kartal",
+    "choice4": "Uang giral hanya dapat digunakan dalam transaksi besar dan lintas negara",
+    "answer": 1
+  },
+  {
+    "question": "3. Salah satu syarat utama agar suatu benda dapat berfungsi sebagai uang adalah kestabilan nilai. Apa dampak utama jika nilai uang tidak stabil?",
+    "choice1": "Meningkatnya daya beli masyarakat secara keseluruhan",
+    "choice2": "Perdagangan internasional menjadi lebih efisien dan transparan",
+    "choice3": "Masyarakat cenderung enggan menyimpan uang dalam bentuk tunai",
+    "choice4": "Bank sentral akan berhenti mencetak uang untuk menghindari inflasi",
+    "answer": 3
+  },
+  {
+    "question": "Kurva permintaan uang menggambarkan hubungan antara:",
+    "choice1": "Tingkat suku bunga dan jumlah uang yang diminta pemerintah",
+    "choice2": "Tingkat suku bunga dan jumlah uang yang diminta masyarakat",
+    "choice3": "Jumlah uang beredar dan tingkat inflasi",
+    "choice4": "Jumlah uang beredar dan pertumbuhan ekonomi.",
+    "answer": 2
+  },
+  {
+    "question": "Faktor mana yang TIDAK menyebabkan pergeseran kurva penawaran uang?",
+    "choice1": "Perubahan suku bunga acuan oleh bank sentral.",
+    "choice2": "Perubahan kebijakan moneter pemerintah",
+    "choice3": "Perubahan tingkat pendapatan nasional",
+    "choice4": "Perubahan jumlah cadangan wajib bank.",
+    "answer": 3
+  },
+  {
+    "question": "Bank Indonesia mengawasi penyelenggara jasa sistem pembayaran agar",
+    "choice1": "Dapat menentukan harga barang di pasar",
+    "choice2": "Dapat memberikan pinjaman tanpa bunga kepada masyarakat",
+    "choice3": "Sistem pembayaran berjalan aman, lancar, dan efisien",
+    "choice4": "Semua transaksi harus dilakukan secara tunai.",
+    "answer": 3
+  }
+]
